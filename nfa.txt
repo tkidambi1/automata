@@ -1,0 +1,16 @@
+; NFA Alphabet
+a b
+
+; Number of States
+3
+
+; Transition Table
+0 a 1
+0 b 2
+1 a 1
+1 b 2
+2 a 2
+2 b 2
+
+; Accept States
+2
